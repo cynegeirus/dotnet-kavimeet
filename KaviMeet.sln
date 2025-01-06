@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34909.67
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaviMeet", "KaviMeet\KaviMeet.csproj", "{370EE93F-0BD9-476F-84C1-1484C2919EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{370EE93F-0BD9-476F-84C1-1484C2919EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370EE93F-0BD9-476F-84C1-1484C2919EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370EE93F-0BD9-476F-84C1-1484C2919EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370EE93F-0BD9-476F-84C1-1484C2919EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D86CE81-061F-4B6A-82E2-F37C19C678EB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\KaviMeet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370EE93F-0BD9-476F-84C1-1484C2919EFE}|KaviMeet\\KaviMeet.csproj|c:\\projects\\kavimeet\\kavimeet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370EE93F-0BD9-476F-84C1-1484C2919EFE}|KaviMeet\\KaviMeet.csproj|solutionrelative:kavimeet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370EE93F-0BD9-476F-84C1-1484C2919EFE}|KaviMeet\\KaviMeet.csproj|c:\\projects\\kavimeet\\kavimeet\\kavimeet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{370EE93F-0BD9-476F-84C1-1484C2919EFE}|KaviMeet\\KaviMeet.csproj|solutionrelative:kavimeet\\kavimeet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KaviMeet.csproj",
+              "DocumentMoniker": "C:\\Projects\\KaviMeet\\KaviMeet\\KaviMeet.csproj",
+              "RelativeDocumentMoniker": "KaviMeet\\KaviMeet.csproj",
+              "ToolTip": "C:\\Projects\\KaviMeet\\KaviMeet\\KaviMeet.csproj",
+              "RelativeToolTip": "KaviMeet\\KaviMeet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T14:40:46.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\KaviMeet\\KaviMeet\\Program.cs",
+              "RelativeDocumentMoniker": "KaviMeet\\Program.cs",
+              "ToolTip": "C:\\Projects\\KaviMeet\\KaviMeet\\Program.cs",
+              "RelativeToolTip": "KaviMeet\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:38:59.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
